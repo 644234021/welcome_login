@@ -1,0 +1,12 @@
+{
+    "bookid": 1,
+    "title": "Zend Framework in Action",
+    "isbn": "1933988320",
+    "pageCount": 432,
+    "publishedDate": "2008-12-01T00:00:00.000-0800",
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/allen.jpg",
+    "shortDescription": "Zend Framework in Action is a comprehensive tutorial that shows how to use the Zend Framework to create web-based applications and web services. This book takes you on an over-the-shoulder tour of the components of the Zend Framework as you build a high quality, real-world web application.",
+    "author": "Rob Allen",
+    "category": "Web Development",
+    "price": 100
+  }
